@@ -15,3 +15,8 @@
 *.exe
 *.out
 *.app
+
+# Files
+battleships
+battleships_2_player.c
+battleships_before_refactor.c
